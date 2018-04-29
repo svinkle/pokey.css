@@ -1,4 +1,8 @@
-# pokey.css 🐴
+# pokey.css
+
+<a href="https://github.com/svinkle/pokey.css"><img
+  src="https://emojipedia-us.s3.amazonaws.com/thumbs/160/emoji-one/5/horse-face_1f434.png" alt="pokey.css"
+  width="160" height="160" align="right"></a>
 
 > Make things visually clickable 👆
 
