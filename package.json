@@ -1,0 +1,17 @@
+{
+  "name": "pokey.css",
+  "version": "1.0.0",
+  "description": "Help make things visually clickable",
+  "main": "pokey.css",
+  "style": "pokey.css",
+  "files": [
+    "LICENSE.md",
+    "pokey.css"
+  ],
+  "devDependencies": {},
+  "scripts": {},
+  "repository": "svinkle/pokey.css",
+  "license": "MIT",
+  "bugs": "https://github.com/svinkle/pokey.css/issues",
+  "homepage": "https://svinkle.github.io/pokey.css"
+}
