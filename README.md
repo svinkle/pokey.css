@@ -21,7 +21,7 @@ See https://unpkg.com/pokey.css/pokey.css
 
 **Download**
 
-See https://svinkle.github.io/pokey.css/latest/pokey.css
+See https://github.com/svinkle/pokey.css/releases
 
 ## Usage
 
@@ -31,7 +31,7 @@ See https://svinkle.github.io/pokey.css/latest/pokey.css
 @import '../node_modules/pokey.css/pokey.css';
 ```
 
-**HTML (via unpkg)**
+**HTML (via [unpkg](https://unpkg.com))**
 
 ```html
 <link rel="stylesheet" href="https://unpkg.com/pokey.css/pokey.css">
@@ -60,6 +60,16 @@ Who stands to benefit? Everyone.
 * Internet Explorer 10+
 * Safari 8+
 * Opera
+
+## Known issues
+
+* Any `disabled` control with a visible `label` element will still feature the <span role="img" aria-label="pointer">👆</span> on the `label` (Need that [parent selector](https://css-tricks.com/parent-selectors-in-css/) already…)
+
+## Contributing
+
+1. Make a [new issue](https://github.com/svinkle/pokey.css/issues/new) with what you've got to share
+2. If it's all good, [make a PR](https://help.github.com/articles/creating-a-pull-request/)
+3. Wait for a maintainer to accept and merge <span role="img" aria-label="">👍</span>
 
 [changelog-image]: https://img.shields.io/badge/changelog-md-blue.svg?style=flat-square
 [changelog-url]: CHANGELOG.md

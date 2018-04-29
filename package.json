@@ -1,17 +1,23 @@
 {
   "name": "pokey.css",
   "version": "1.0.0",
-  "description": "Help make things visually clickable",
+  "description": "Make things visually clickable",
   "main": "pokey.css",
-  "style": "pokey.css",
   "files": [
     "LICENSE.md",
     "pokey.css"
   ],
-  "devDependencies": {},
-  "scripts": {},
-  "repository": "svinkle/pokey.css",
+  "repository": {
+    "type": "git",
+    "url": "git+svinkle/pokey.css"
+  },
+  "keywords": [
+    "accessibility",
+    "a11y",
+    "css",
+  ],
+  "author": "Scott Vinkle <svinkle@gmail.com>",
   "license": "MIT",
   "bugs": "https://github.com/svinkle/pokey.css/issues",
-  "homepage": "https://svinkle.github.io/pokey.css"
+  "homepage": "https://github.com/svinkle/pokey.css#readme"
 }
