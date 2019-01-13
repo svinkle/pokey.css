@@ -77,3 +77,7 @@ Who stands to benefit? Everyone.
 [license-url]: LICENSE.md
 [npm-image]: https://img.shields.io/npm/v/pokey.css.svg?style=flat-square
 [npm-url]: https://npmjs.com/package/pokey.css
+
+## License
+
+This project and its source code is licensed under the [MIT](LICENSE.txt) license.
